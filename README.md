@@ -1,6 +1,8 @@
 #  JSON-Q
 Simplie CLI program to query a (particular!) json object.
 
+![Scren Shot of App](https://s3.amazonaws.com/wibbed/uploads/Screenshot+from+2018-05-16+11-24-11.png)
+
 #### About project:
 Although I've worked with Node.js, I'd never really got to do any CLI programs, and was excited by the process.  I did some intial research, reading articales, and gather info.  I did my best to componentize my functions.  Many times that was not possible, but with a few tweaks, particulatly the process section could be used for querys of a different sort.
 
