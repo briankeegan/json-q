@@ -17,8 +17,11 @@ Dependencies:
 - "inquirer" - Used for comman line interface
 - "isomorphic-fetch" - my preferred means of HTTP reqeusts, fetch
 
-Setup and usage:
--
+Setup:
+-  Clone or download.
+-  In repo, run `npm install -g` to install in globally
+- Use `json-q` to run - there is an optional string paramter which can either be local directory or URL.
+- For help using, in program type `-help`
 
 
 
