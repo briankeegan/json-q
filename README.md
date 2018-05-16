@@ -19,7 +19,7 @@ Dependencies:
 
 Setup:
 -  Clone or download.
--  In repo, run `npm install -g` to install in globally
+-  In repo, run `npm install -g` to install globally
 - Use `json-q` to run - there is an optional string paramter which can either be local directory or URL.
 - For help using, in program type `-help`
 
